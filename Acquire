@@ -1,0 +1,3 @@
+Acquire::http::Proxy "http://your-proxy-server:port";
+Acquire::https::Proxy "https://your-proxy-server:port";
+Acquire::ftp::Proxy "ftp://your-proxy-server:port";
