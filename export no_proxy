@@ -1,0 +1,4 @@
+export http_proxy=http://your-proxy-server:port
+export https_proxy=https://your-proxy-server:port
+export ftp_proxy=ftp://your-proxy-server:port
+export no_proxy="localhost,127.0.0.1,::1"
